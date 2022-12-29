@@ -1,13 +1,14 @@
 export const labelcardStyle = {
   delete: {
-    width: "30px",
-    height: "30px",
+    curson:'Pointer',
     color: "#FF4545",
   },
   Sx: {
     display: "flex",
     justifyContent: "space-between",
     padding: "20px",
+    // position:"sticky",
+   
   },
   iconBox: {
     display: "flex",

@@ -52,24 +52,24 @@ export const theme = createTheme({
     h5: {
       fontSize: 48,
       fontWeight: 400,
-      lineHeight: '58px',
+      lineHeight: "58px",
       fontFamily: "Russo One, sans-serif",
     },
     h6: {
       fontSize: 18,
       fontWeight: 400,
-      lineHeight: '22px',
+      lineHeight: "22px",
       fontFamily: "Russo One, sans-serif",
     },
     body1: {
       fontSize: 18,
-      fontWeight: 500,
-      lineHeight:'22px'
+      fontWeight: 600,
+      lineHeight: "22px",
     },
     body2: {
-       fontSize: 14,
+      fontSize: 14,
       fontWeight: 500,
-      lineHeight:'17px'
-    }
+      lineHeight: "17px",
+    },
   },
 });
