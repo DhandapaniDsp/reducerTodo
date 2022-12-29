@@ -63,7 +63,7 @@ export const theme = createTheme({
     },
     body1: {
       fontSize: 18,
-      fontWeight: 500,
+      fontWeight: 600,
       lineHeight:'22px'
     },
     body2: {
