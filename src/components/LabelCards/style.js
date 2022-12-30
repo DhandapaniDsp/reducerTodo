@@ -1,7 +1,7 @@
 export const labelcardStyle = {
   delete: {
     color: "#FF4545",
-    cursor:'pointer'
+    cursor: "pointer",
   },
   Sx: {
     display: "flex",
@@ -10,7 +10,6 @@ export const labelcardStyle = {
     paddingTop: 0,
     // position:"sticky",
   },
-
 
   iconBox: {
     display: "flex",
